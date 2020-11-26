@@ -1,0 +1,23 @@
+{
+  "name": "tree-hugger",
+  "version": "1.0.0",
+  "description": "Environmental awareness app",
+  "main": "App.js",
+  "scripts": {
+    "test": "node App.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xarroyo1/Tree-Hugger.git"
+  },
+  "keywords": [
+    "environmental"
+  ],
+  "author": "Xyra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xarroyo1/Tree-Hugger/issues"
+  },
+  "homepage": "https://github.com/xarroyo1/Tree-Hugger#readme"
+}
